@@ -1,0 +1,1013 @@
+{
+    "manifest_version": "1.0.21",
+    "title": "Syner - Digital Agency Elementor Template Kit",
+    "page_builder": "elementor",
+    "kit_version": "3.5.5",
+    "templates": [
+        {
+            "name": "Global Kit Styles",
+            "screenshot": "screenshots\/global-kit-styles.jpg",
+            "source": "templates\/global.json",
+            "preview_url": "http:\/\/richard.portocrafting.com",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "global-styles",
+                "include_in_zip": "1",
+                "elementor_pro_required": null,
+                "additional_template_information": [
+                    "These are the global theme styles configured through the Elementor Theme Styles area."
+                ]
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Projects",
+            "screenshot": "screenshots\/projects.jpg",
+            "source": "templates\/projects.json",
+            "preview_url": "http:\/\/richard.portocrafting.com\/syner\/template-kit\/project\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-other",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Products",
+            "screenshot": "screenshots\/products.jpg",
+            "source": "templates\/products.json",
+            "preview_url": "http:\/\/richard.portocrafting.com\/syner\/template-kit\/product\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-product",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Feedback",
+            "screenshot": "screenshots\/feedback.jpg",
+            "source": "templates\/feedback.json",
+            "preview_url": "http:\/\/richard.portocrafting.com\/syner\/template-kit\/feedback\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-testimonial",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Contact",
+            "screenshot": "screenshots\/contact.jpg",
+            "source": "templates\/contact.json",
+            "preview_url": "http:\/\/richard.portocrafting.com\/syner\/template-kit\/contact\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-contact",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "FAQ",
+            "screenshot": "screenshots\/faq.jpg",
+            "source": "templates\/faq.json",
+            "preview_url": "http:\/\/richard.portocrafting.com\/syner\/template-kit\/faq\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-faq",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "404 Page",
+            "screenshot": "screenshots\/404-page.jpg",
+            "source": "templates\/404-page.json",
+            "preview_url": "http:\/\/richard.portocrafting.com\/syner\/template-kit\/404-page\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-other",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Pricing",
+            "screenshot": "screenshots\/pricing.jpg",
+            "source": "templates\/pricing.json",
+            "preview_url": "http:\/\/richard.portocrafting.com\/syner\/template-kit\/pricing\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-pricing",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Services",
+            "screenshot": "screenshots\/services.jpg",
+            "source": "templates\/services.json",
+            "preview_url": "http:\/\/richard.portocrafting.com\/syner\/template-kit\/services\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-services",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "About",
+            "screenshot": "screenshots\/about.jpg",
+            "source": "templates\/about.json",
+            "preview_url": "http:\/\/richard.portocrafting.com\/syner\/template-kit\/about\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-about",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Home",
+            "screenshot": "screenshots\/home.jpg",
+            "source": "templates\/home.json",
+            "preview_url": "http:\/\/richard.portocrafting.com\/syner\/template-kit\/home\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Footer",
+            "screenshot": "screenshots\/footer.jpg",
+            "source": "templates\/footer.json",
+            "preview_url": "http:\/\/richard.portocrafting.com\/syner\/?elementor_library=elementor-footer-207",
+            "type": "footer",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-footer",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "footer",
+                "elementor_pro_conditions": [
+                    "include\/general"
+                ],
+                "additional_template_information": [
+                    "This is a \"Footer\" template for Elementor Pro.",
+                    "This template will display on: Entire Site."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Header",
+            "screenshot": "screenshots\/header.jpg",
+            "source": "templates\/header.json",
+            "preview_url": "http:\/\/richard.portocrafting.com\/syner\/?elementor_library=header",
+            "type": "header",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-header",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "header",
+                "elementor_pro_conditions": [
+                    "include\/general"
+                ],
+                "additional_template_information": [
+                    "This is a \"Header\" template for Elementor Pro.",
+                    "This template will display on: Entire Site."
+                ]
+            },
+            "elementor_pro_required": true
+        }
+    ],
+    "required_plugins": [
+        {
+            "name": "ElementsKit Lite",
+            "version": "2.5.3",
+            "file": "elementskit-lite\/elementskit-lite.php",
+            "author": "Wpmet"
+        },
+        {
+            "name": "PowerPack Lite for Elementor",
+            "version": "2.6.9",
+            "file": "powerpack-lite-for-elementor\/powerpack-lite-elementor.php",
+            "author": "IdeaBox Creations"
+        },
+        {
+            "name": "Elementor",
+            "version": "3.5.5",
+            "file": "elementor\/elementor.php",
+            "author": "Elementor.com"
+        },
+        {
+            "name": "Elementor Pro",
+            "version": "3.6.0",
+            "file": "elementor-pro\/elementor-pro.php",
+            "author": "Elementor.com"
+        }
+    ],
+    "images": [
+        {
+            "filename": "group-of-students-around-screen-collaborating-on-p-PU3V7M8.jpg",
+            "thumbnail_url": "http:\/\/richard.portocrafting.com\/syner\/wp-content\/uploads\/sites\/8\/2022\/03\/group-of-students-around-screen-collaborating-on-p-PU3V7M8-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/projects.json",
+                    "name": "Projects"
+                }
+            ],
+            "filesize": 241602,
+            "dimensions": [
+                1440,
+                960
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-PU3V7M8"
+        },
+        {
+            "filename": "drawing-project-PN4D3Y8.jpg",
+            "thumbnail_url": "http:\/\/richard.portocrafting.com\/syner\/wp-content\/uploads\/sites\/8\/2022\/03\/drawing-project-PN4D3Y8-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/projects.json",
+                    "name": "Projects"
+                },
+                {
+                    "source": "templates\/products.json",
+                    "name": "Products"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 235435,
+            "dimensions": [
+                900,
+                600
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-PN4D3Y8"
+        },
+        {
+            "filename": "businesspeople-sitting-at-table-with-digital-devic-HA7ZDBT.jpg",
+            "thumbnail_url": "http:\/\/richard.portocrafting.com\/syner\/wp-content\/uploads\/sites\/8\/2022\/03\/businesspeople-sitting-at-table-with-digital-devic-HA7ZDBT-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/projects.json",
+                    "name": "Projects"
+                },
+                {
+                    "source": "templates\/products.json",
+                    "name": "Products"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 247899,
+            "dimensions": [
+                1440,
+                960
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-HA7ZDBT"
+        },
+        {
+            "filename": "agency-workers-at-relax-zone-P5BJ6QP.jpg",
+            "thumbnail_url": "http:\/\/richard.portocrafting.com\/syner\/wp-content\/uploads\/sites\/8\/2022\/03\/agency-workers-at-relax-zone-P5BJ6QP-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/projects.json",
+                    "name": "Projects"
+                },
+                {
+                    "source": "templates\/products.json",
+                    "name": "Products"
+                },
+                {
+                    "source": "templates\/feedback.json",
+                    "name": "Feedback"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 295909,
+            "dimensions": [
+                900,
+                600
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-P5BJ6QP"
+        },
+        {
+            "filename": "creative-office-PPMRGNK.jpg",
+            "thumbnail_url": "http:\/\/richard.portocrafting.com\/syner\/wp-content\/uploads\/sites\/8\/2022\/03\/creative-office-PPMRGNK-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/projects.json",
+                    "name": "Projects"
+                },
+                {
+                    "source": "templates\/products.json",
+                    "name": "Products"
+                },
+                {
+                    "source": "templates\/feedback.json",
+                    "name": "Feedback"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 233994,
+            "dimensions": [
+                900,
+                600
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-PPMRGNK"
+        },
+        {
+            "filename": "Mask-Group.png",
+            "thumbnail_url": "http:\/\/richard.portocrafting.com\/syner\/wp-content\/uploads\/sites\/8\/2022\/03\/Mask-Group-800x850.png",
+            "templates": [
+                {
+                    "source": "templates\/projects.json",
+                    "name": "Projects"
+                },
+                {
+                    "source": "templates\/products.json",
+                    "name": "Products"
+                },
+                {
+                    "source": "templates\/feedback.json",
+                    "name": "Feedback"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 42075,
+            "dimensions": [
+                1293,
+                1374
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "startup-business-team-brainstorming-on-meeting-wor-PY7W8AW.jpg",
+            "thumbnail_url": "http:\/\/richard.portocrafting.com\/syner\/wp-content\/uploads\/sites\/8\/2022\/03\/startup-business-team-brainstorming-on-meeting-wor-PY7W8AW-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/products.json",
+                    "name": "Products"
+                }
+            ],
+            "filesize": 254316,
+            "dimensions": [
+                1440,
+                960
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-PY7W8AW"
+        },
+        {
+            "filename": "Group-10.png",
+            "thumbnail_url": "http:\/\/richard.portocrafting.com\/syner\/wp-content\/uploads\/sites\/8\/2022\/03\/Group-10.png",
+            "templates": [
+                {
+                    "source": "templates\/products.json",
+                    "name": "Products"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 5740,
+            "dimensions": [
+                500,
+                500
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-N7VA248"
+        },
+        {
+            "filename": "Group-11.png",
+            "thumbnail_url": "http:\/\/richard.portocrafting.com\/syner\/wp-content\/uploads\/sites\/8\/2022\/03\/Group-11.png",
+            "templates": [
+                {
+                    "source": "templates\/products.json",
+                    "name": "Products"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 5689,
+            "dimensions": [
+                500,
+                500
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-N7VA248"
+        },
+        {
+            "filename": "Group-12.png",
+            "thumbnail_url": "http:\/\/richard.portocrafting.com\/syner\/wp-content\/uploads\/sites\/8\/2022\/03\/Group-12.png",
+            "templates": [
+                {
+                    "source": "templates\/products.json",
+                    "name": "Products"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 4872,
+            "dimensions": [
+                500,
+                500
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-N7VA248"
+        },
+        {
+            "filename": "Group-13.png",
+            "thumbnail_url": "http:\/\/richard.portocrafting.com\/syner\/wp-content\/uploads\/sites\/8\/2022\/03\/Group-13.png",
+            "templates": [
+                {
+                    "source": "templates\/products.json",
+                    "name": "Products"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 7354,
+            "dimensions": [
+                500,
+                500
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-N7VA248"
+        },
+        {
+            "filename": "Group-14.png",
+            "thumbnail_url": "http:\/\/richard.portocrafting.com\/syner\/wp-content\/uploads\/sites\/8\/2022\/03\/Group-14.png",
+            "templates": [
+                {
+                    "source": "templates\/products.json",
+                    "name": "Products"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 9608,
+            "dimensions": [
+                500,
+                500
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-N7VA248"
+        },
+        {
+            "filename": "Group-15.png",
+            "thumbnail_url": "http:\/\/richard.portocrafting.com\/syner\/wp-content\/uploads\/sites\/8\/2022\/03\/Group-15.png",
+            "templates": [
+                {
+                    "source": "templates\/products.json",
+                    "name": "Products"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 5026,
+            "dimensions": [
+                500,
+                500
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-N7VA248"
+        },
+        {
+            "filename": "woman-check-on-the-discount-in-mobile-phone-inside-YV74SXG.jpg",
+            "thumbnail_url": "http:\/\/richard.portocrafting.com\/syner\/wp-content\/uploads\/sites\/8\/2022\/03\/woman-check-on-the-discount-in-mobile-phone-inside-YV74SXG-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/feedback.json",
+                    "name": "Feedback"
+                }
+            ],
+            "filesize": 285804,
+            "dimensions": [
+                1440,
+                960
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-YV74SXG"
+        },
+        {
+            "filename": "Illustration-5.png",
+            "thumbnail_url": "http:\/\/richard.portocrafting.com\/syner\/wp-content\/uploads\/sites\/8\/2022\/03\/Illustration-5-800x311.png",
+            "templates": [
+                {
+                    "source": "templates\/feedback.json",
+                    "name": "Feedback"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 13711,
+            "dimensions": [
+                1026,
+                399
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "portrait-of-a-happy-brunette-bearded-man-HSYX4YH.png",
+            "thumbnail_url": "http:\/\/richard.portocrafting.com\/syner\/wp-content\/uploads\/sites\/8\/2022\/03\/portrait-of-a-happy-brunette-bearded-man-HSYX4YH.png",
+            "templates": [
+                {
+                    "source": "templates\/feedback.json",
+                    "name": "Feedback"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 227572,
+            "dimensions": [
+                500,
+                500
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-HSYX4YH"
+        },
+        {
+            "filename": "businesswoman-talk-to-cellphone-at-office-S95H5ZU.jpg",
+            "thumbnail_url": "http:\/\/richard.portocrafting.com\/syner\/wp-content\/uploads\/sites\/8\/2022\/03\/businesswoman-talk-to-cellphone-at-office-S95H5ZU-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                }
+            ],
+            "filesize": 254100,
+            "dimensions": [
+                1440,
+                960
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-S95H5ZU"
+        },
+        {
+            "filename": "corporate-business-young-people-working-in-the-cal-WFL8JUS.jpg",
+            "thumbnail_url": "http:\/\/richard.portocrafting.com\/syner\/wp-content\/uploads\/sites\/8\/2022\/03\/corporate-business-young-people-working-in-the-cal-WFL8JUS-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                }
+            ],
+            "filesize": 259345,
+            "dimensions": [
+                1440,
+                960
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-WFL8JUS"
+        },
+        {
+            "filename": "businesswoman-in-a-red-sweater-works-ZBQGNXP.jpg",
+            "thumbnail_url": "http:\/\/richard.portocrafting.com\/syner\/wp-content\/uploads\/sites\/8\/2022\/03\/businesswoman-in-a-red-sweater-works-ZBQGNXP-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 281778,
+            "dimensions": [
+                900,
+                600
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-ZBQGNXP"
+        },
+        {
+            "filename": "confused-fruustrated-young-woman-working-BD8BYBZ.jpg",
+            "thumbnail_url": "http:\/\/richard.portocrafting.com\/syner\/wp-content\/uploads\/sites\/8\/2022\/03\/confused-fruustrated-young-woman-working-BD8BYBZ-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/404-page.json",
+                    "name": "404 Page"
+                }
+            ],
+            "filesize": 229718,
+            "dimensions": [
+                1440,
+                960
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-BD8BYBZ"
+        },
+        {
+            "filename": "set-of-flat-designs-for-404-error-page-W8UQ34P.png",
+            "thumbnail_url": "http:\/\/richard.portocrafting.com\/syner\/wp-content\/uploads\/sites\/8\/2022\/03\/set-of-flat-designs-for-404-error-page-W8UQ34P-800x419.png",
+            "templates": [
+                {
+                    "source": "templates\/404-page.json",
+                    "name": "404 Page"
+                }
+            ],
+            "filesize": 94259,
+            "dimensions": [
+                1415,
+                741
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-W8UQ34P"
+        },
+        {
+            "filename": "group-of-students-meeting-for-tutorial-with-teache-PHCA69A.jpg",
+            "thumbnail_url": "http:\/\/richard.portocrafting.com\/syner\/wp-content\/uploads\/sites\/8\/2022\/03\/group-of-students-meeting-for-tutorial-with-teache-PHCA69A-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                }
+            ],
+            "filesize": 290249,
+            "dimensions": [
+                1440,
+                960
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-PHCA69A"
+        },
+        {
+            "filename": "businesspeople-taking-notes-with-laptop-and-paying-M2GL4JX.jpg",
+            "thumbnail_url": "http:\/\/richard.portocrafting.com\/syner\/wp-content\/uploads\/sites\/8\/2022\/03\/businesspeople-taking-notes-with-laptop-and-paying-M2GL4JX-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 228149,
+            "dimensions": [
+                1440,
+                960
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-M2GL4JX"
+        },
+        {
+            "filename": "business-consulting-LR4K6ZD.jpg",
+            "thumbnail_url": "http:\/\/richard.portocrafting.com\/syner\/wp-content\/uploads\/sites\/8\/2022\/03\/business-consulting-LR4K6ZD-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 221352,
+            "dimensions": [
+                1440,
+                960
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-LR4K6ZD"
+        },
+        {
+            "filename": "portrait-of-a-young-business-woman-working-at-a-la-3ZXMY7Q.jpg",
+            "thumbnail_url": "http:\/\/richard.portocrafting.com\/syner\/wp-content\/uploads\/sites\/8\/2022\/03\/portrait-of-a-young-business-woman-working-at-a-la-3ZXMY7Q-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 271649,
+            "dimensions": [
+                900,
+                600
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-3ZXMY7Q"
+        },
+        {
+            "filename": "contemporary-african-businessman-J2UZC3W.jpg",
+            "thumbnail_url": "http:\/\/richard.portocrafting.com\/syner\/wp-content\/uploads\/sites\/8\/2022\/03\/contemporary-african-businessman-J2UZC3W-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 209982,
+            "dimensions": [
+                900,
+                600
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-J2UZC3W"
+        },
+        {
+            "filename": "long-haired-business-woman-looks-at-laptop-with-sm-25PJEZP.jpg",
+            "thumbnail_url": "http:\/\/richard.portocrafting.com\/syner\/wp-content\/uploads\/sites\/8\/2022\/03\/long-haired-business-woman-looks-at-laptop-with-sm-25PJEZP-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 207681,
+            "dimensions": [
+                900,
+                600
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-25PJEZP"
+        },
+        {
+            "filename": "asian-young-businesswoman-DNMK6S3.png",
+            "thumbnail_url": "http:\/\/richard.portocrafting.com\/syner\/wp-content\/uploads\/sites\/8\/2022\/03\/asian-young-businesswoman-DNMK6S3.png",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 232329,
+            "dimensions": [
+                435,
+                574
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-DNMK6S3"
+        },
+        {
+            "filename": "Signature.png",
+            "thumbnail_url": "http:\/\/richard.portocrafting.com\/syner\/wp-content\/uploads\/sites\/8\/2022\/03\/Signature.png",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 15718,
+            "dimensions": [
+                730,
+                185
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "young-business-man-using-laptop-AQNBV4S-removebg-preview-1.png",
+            "thumbnail_url": "http:\/\/richard.portocrafting.com\/syner\/wp-content\/uploads\/sites\/8\/2022\/03\/young-business-man-using-laptop-AQNBV4S-removebg-preview-1.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 338406,
+            "dimensions": [
+                659,
+                592
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-AQNBV4S"
+        },
+        {
+            "filename": "Illustration-6.png",
+            "thumbnail_url": "http:\/\/richard.portocrafting.com\/syner\/wp-content\/uploads\/sites\/8\/2022\/03\/Illustration-6-800x283.png",
+            "templates": [
+                {
+                    "source": "templates\/footer.json",
+                    "name": "Footer"
+                }
+            ],
+            "filesize": 14698,
+            "dimensions": [
+                1440,
+                509
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Logo.png",
+            "thumbnail_url": "http:\/\/richard.portocrafting.com\/syner\/wp-content\/uploads\/sites\/8\/2022\/03\/Logo.png",
+            "templates": [
+                {
+                    "source": "templates\/footer.json",
+                    "name": "Footer"
+                },
+                {
+                    "source": "templates\/header.json",
+                    "name": "Header"
+                }
+            ],
+            "filesize": 7226,
+            "dimensions": [
+                271,
+                271
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        }
+    ]
+}

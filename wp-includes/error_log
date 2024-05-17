@@ -1,0 +1,16 @@
+[13-Mar-2024 08:46:03 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/ujianori/engagement.id/wp-includes/class-wp-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/engagement.id/wp-includes/class-wp-http.php on line 11
+[13-Mar-2024 08:46:05 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/ujianori/engagement.id/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/engagement.id/wp-includes/class-wp-scripts.php on line 18
+[13-Mar-2024 08:46:06 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/ujianori/engagement.id/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/engagement.id/wp-includes/class-wp-styles.php on line 18
+[13-Mar-2024 08:46:14 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/ujianori/engagement.id/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/engagement.id/wp-includes/template-canvas.php on line 12

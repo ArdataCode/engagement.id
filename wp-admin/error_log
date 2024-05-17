@@ -1,0 +1,14 @@
+[10-Mar-2024 05:07:21 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function PHPMailer\PHPMailer\mail() in /home/ujianori/engagement.id/wp-includes/PHPMailer/PHPMailer.php:874
+Stack trace:
+#0 /home/ujianori/engagement.id/wp-includes/PHPMailer/PHPMailer.php(1961): PHPMailer\PHPMailer\PHPMailer->mailPassthru()
+#1 /home/ujianori/engagement.id/wp-includes/PHPMailer/PHPMailer.php(1682): PHPMailer\PHPMailer\PHPMailer->mailSend()
+#2 /home/ujianori/engagement.id/wp-includes/PHPMailer/PHPMailer.php(1518): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/ujianori/engagement.id/wp-includes/pluggable.php(546): PHPMailer\PHPMailer\PHPMailer->send()
+#4 /home/ujianori/engagement.id/wp-content/plugins/elementor-pro/modules/forms/actions/email.php(335): wp_mail()
+#5 /home/ujianori/engagement.id/wp-content/plugins/elementor-pro/modules/forms/classes/ajax-handler.php(159): ElementorPro\Modules\Forms\Actions\Email->run()
+#6 /home/ujianori/engagement.id/wp-includes/class-wp-hook.php(324): ElementorPro\Modules\Forms\Classes\Ajax_Handler->ajax_send_form()
+#7 /home/ujianori/engagement.id/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#8 /home/ujianori/engagement.id/wp-includes/plugin.php(517): WP_Hook->do_action()
+#9 /home/ujianori/engagement.id/wp-admin/admin-ajax.php(203): do_action()
+#10 {main}
+  thrown in /home/ujianori/engagement.id/wp-includes/PHPMailer/PHPMailer.php on line 874

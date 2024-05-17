@@ -1,0 +1,4 @@
+[13-Mar-2024 08:46:26 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/ujianori/engagement.id/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/engagement.id/wp-includes/blocks/index.php on line 8
